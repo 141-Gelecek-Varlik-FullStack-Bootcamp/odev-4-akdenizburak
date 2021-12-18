@@ -1,0 +1,7 @@
+C:\Users\kanka\source\repos\MovieList\MovieList\obj\Debug\net5.0\MovieList.csproj.AssemblyReference.cache
+C:\Users\kanka\source\repos\MovieList\MovieList\obj\Debug\net5.0\MovieList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanka\source\repos\MovieList\MovieList\obj\Debug\net5.0\MovieList.AssemblyInfoInputs.cache
+C:\Users\kanka\source\repos\MovieList\MovieList\obj\Debug\net5.0\MovieList.AssemblyInfo.cs
+C:\Users\kanka\source\repos\MovieList\MovieList\obj\Debug\net5.0\MovieList.csproj.CoreCompileInputs.cache
+C:\Users\kanka\source\repos\MovieList\MovieList\obj\Debug\net5.0\MovieList.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kanka\source\repos\MovieList\MovieList\obj\Debug\net5.0\MovieList.MvcApplicationPartsAssemblyInfo.cache
